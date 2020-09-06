@@ -225,7 +225,7 @@ h6 {
 /* line 24, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
 p {
   font-family: "Poppins", sans-serif;
-  color: #000000;
+  color: #36802d;
   font-size: 16px;
   line-height: 30px;
   margin-bottom: 15px;
@@ -2803,15 +2803,15 @@ hr {
 
 /* line 830, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
 .section-padding40 {
-  padding-top: 140px;
-  padding-bottom: 130px;
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   /* line 830, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
   .section-padding40 {
-    padding-top: 100px;
-    padding-bottom: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px;
   }
 }
 
@@ -3022,7 +3022,7 @@ hr {
   font-weight: 300;
   line-height: 1.4;
   margin-bottom: 22px;
-  color: #670000;
+  color: #0066cc;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3553,8 +3553,8 @@ hr {
   text-transform: uppercase;
   color: #670000;
   line-height: 1;
-  margin-bottom: 39px;
-  margin-bottom: 39px;
+  margin-bottom: 26px;
+  margin-bottom: 26px;
   background-image: url(https://images.unsplash.com/photo-1542382257-80dedb725088?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2000&q=80);
   background-size: cover;
   -webkit-text-fill-color: transparent;
@@ -3964,8 +3964,14 @@ hr {
 
 /* line 2, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_my-about.scss */
 .may-about {
-  background: #670000;
+  /* background: #670000; */
+  background-image: url(https://images.unsplash.com/photo-1580090928201-88ab9b4a4d2e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+  background-size: cover;
+  
+  background-attachment: fixed;
+
 }
+
 
 /* line 4, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_my-about.scss */
 .may-about .single-about {
