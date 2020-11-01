@@ -1,0 +1,29 @@
+
+
+
+.peoplebox{
+    text-align: center;
+
+}
+
+.img-circle{
+    border-radius: 50%;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.img-responsive{
+    max-width: 100%;
+}
+
+.peopleheading{
+    font-size: 50px;
+    margin-top: 100px;
+    margin-top: 10px;
+}
+
+hr{
+    height: 5px;
+    width: 25%;
+    margin:0;
+}

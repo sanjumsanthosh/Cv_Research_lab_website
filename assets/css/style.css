@@ -31,6 +31,7 @@
 /* line 38, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
 .section-bg1 {
   background: #FFEFAE;
+  
 }
 
 /* line 41, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
@@ -225,7 +226,7 @@ h6 {
 /* line 24, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
 p {
   font-family: "Poppins", sans-serif;
-  color: #36802d;
+  color: #353535;
   font-size: 16px;
   line-height: 30px;
   margin-bottom: 15px;
@@ -3022,7 +3023,7 @@ hr {
   font-weight: 300;
   line-height: 1.4;
   margin-bottom: 22px;
-  color: #0066cc;
+  color: #4E8098;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3061,7 +3062,7 @@ hr {
 
 /* line 982, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
 .section-tittle2 h2 {
-  color: #fff;
+  color: #28262C;
   font-size: 80px;
   font-weight: 300;
 }
@@ -3098,7 +3099,7 @@ hr {
 /*-------------   Color Variable  --------------*/
 /* line 38, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
 .section-bg1 {
-  background: #FFEFAE;
+  background:#FCF7F8;
 }
 
 /* line 41, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
@@ -3648,7 +3649,7 @@ hr {
 /* line 148, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_h1-hero.scss */
 .hero-area2 {
   background: #FFEFAE;
-  height: 300px;
+  height: 100px;
 }
 
 @media only screen and (min-width: 576px) and (max-width: 767px) {
@@ -3966,8 +3967,8 @@ hr {
 /* line 2, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_my-about.scss */
 .may-about {
   /* background: #670000; */
-  background-image: url(https://images.unsplash.com/photo-1590859808308-3d2d9c515b1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80);
-  background-repeat: no-repeat;
+  background-image: url(https://images.unsplash.com/photo-1545987796-200677ee1011?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80);
+  
   background-attachment: fixed;
   background-size: cover;
 
@@ -3993,7 +3994,7 @@ hr {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   padding: 13px 0px;
-  border-bottom: 1px solid #700F0F;
+  /* border-bottom: 1px solid #ffffff; */
 }
 
 /* line 12, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_my-about.scss */
@@ -4004,9 +4005,9 @@ hr {
 
 /* line 15, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_my-about.scss */
 .may-about .single-about .tittle-experience h3 {
-  font-weight: 300;
+  font-weight: 400;
   font-size: 30px;
-  color: #FFEFAE;
+  color: #28262C;
   margin-bottom: 19px;
 }
 
@@ -4035,7 +4036,7 @@ hr {
 .may-about .single-about .experience-link a {
   font-weight: 300;
   font-size: 16px;
-  color: #FFEFAE;
+  color: #FFFFFF;
 }
 
 @media (max-width: 575px) {
@@ -4160,6 +4161,7 @@ hr {
 /* line 73, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_gallery.scss */
 .box {
   position: relative;
+
 }
 
 /* line 75, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_gallery.scss */
